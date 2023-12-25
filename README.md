@@ -2,8 +2,8 @@
 
 ### Задание 1
 
-1.
-2.![Image alt](https://github.com/vladislst/3.md/raw/main/img/rsync.jpg)
+.
+1.![Image alt](https://github.com/vladislst/3.md/raw/main/img/rsync.jpg)
 
 ### Задание 2
 
